@@ -1,2 +1,2 @@
 # yuv_viewer
-YUV420SP viewer
+GTK YUV420SP viewer
