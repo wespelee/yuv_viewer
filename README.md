@@ -1,2 +1,3 @@
-# yuv_viewer
-GTK YUV420SP viewer
+# YUV Viewer
+1. GTK base.
+2. Intel libva base.
